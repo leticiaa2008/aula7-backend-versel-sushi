@@ -153,3 +153,4 @@ app.listen(PORTA, () => {
     console.log(`   GET    /api/produtos/erro-teste`);
     console.log('');
 });
+module.exports = app;
